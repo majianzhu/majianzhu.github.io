@@ -1,0 +1,6 @@
+Menu
+Home                [index.html]\n
+Publications        [publication.html]\n
+CS590 (Graphs in Machine Learning)			[teaching.html] \n
+CS590 (Bioinformatics Algorithms)			[teaching_ba.html] \n
+Software	    [software.html]\n

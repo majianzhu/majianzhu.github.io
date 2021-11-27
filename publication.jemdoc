@@ -1,0 +1,186 @@
+# jemdoc: menu{MENU.txt}{publication.html}, showsource
+== Publication
+# jemdoc: addpackage{color}
+
+== Senior author paper
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}} Modeling Gene Regulatory Networks Using Neural Network Architectures {{</b></font>}}\n
+Hantao Shu, Jingtian Zhou, Qiuyu Lian, Han Li, Dan Zhao, Jianyang Zeng, *Jianzhu Ma*\n
+Nature Computational Science  2021\n
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}} Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns {{</b></font>}}\n
+Susheel Suresh, Vinith Budde, Jennifer Neville, Pan Li and *Jianzhu Ma*\n
+KDD 2021\n
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}}Predicting MHC-peptide binding affinity by differential boundary tree{{</b></font>}}\n
+Peiyuan Feng, Jianyang Zeng and *Jianzhu Ma*\n
+ISMB 2021\n
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}}Disease Gene Prediction with Privileged Information and Heteroscedastic Dropout{{</b></font>}}\n
+Juan Shu, Yu Li, Sheng Wang, Bowei Xi and *Jianzhu Ma*\n
+ISMB 2021\n
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}}AirSign: Smartphone Authentication by Signing in the Air{{</b></font>}}\n
+Yubo Shao, Tinghan Yang, He Wang, *Jianzhu Ma*\n
+Sensor 2021\n
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}}Towards the prediction of higher-order genetic interactions{{</b></font>}}\n
+Ruochi Zhang, *Jianzhu Ma*, Jian Ma\n
+RECOMB 2021\n
+
+- {{<font color=DarkBlue size=+0.5><b>}}Predicting drug response and synergy using a deep learning model of a cancer cell{{</b></font>}}\n
+Brent Kuenzi, Jisoo Park, Samson H. Fong, Kyle Salinas Sanchez, Jason F. Kreisberg, *Jianzhu Ma*, Trey Ideker\n
+Cancer Cell in press 2020\n
+
+-- {{<font color=red size=+0.5<b>}}ScienceDaily:{{</b></font>}} [https://www.sciencedaily.com/releases/2020/10/201026164900.htm DrugCell: New experimental AI platform matches tumor to best drug combo]\n
+-- {{<font color=red size=+0.5<b>}}Health IT Analytics:{{</b></font>}} [https://healthitanalytics.com/news/deep-learning-model-could-enhance-cancer-precision-medicine Deep Learning Model Could Enhance Cancer Precision Medicine]\n
+-- {{<font color=red size=+0.5<b>}}Med India:{{</b></font>}} [https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm New AI Platform Matches Tumor to Right Drug Combination]
+-- {{<font color=red size=+0.5<b>}}AZO Life Sciences:{{</b></font>}} [https://www.azolifesciences.com/news/20201026/Experimental-AI-platform-predicts-best-approach-to-cancer-treatment.aspx Experimental AI platform predicts best approach to cancer treatment]
+-- {{<font color=red size=+0.5<b>}}UC San Diego Health Newsroom:{{</b></font>}} [https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo]
+
+- {{<font color=DarkBlue size=+0.5><b>}}Causality in machine learning: When causal inference meets deep neural networks{{</b></font>}}\n
+Yunan Luo, Jian Peng, *Jianzhu Ma* \n
+Nature Machine intelligence 2020\n
+
+== First or co-first author paper
+- {{<font color=DarkBlue size=+0.5><b>}}Learning predictive models of drug response that translate across biological contexts{{</b></font>}}\n
+*Jianzhu Ma*, Samson Fong, Yunan Luo, Christopher Bakkenist, John Paul Shen, Soufiane Mourragui, Lodewyk Wessels, Marc Hafner, Roded Sharan, Jian Peng, Trey Ideker\n
+Nature Cancer 2020\n
+- {{<font color=DarkBlue size=+0.5><b>}}Robust Single-Cell Hi-C Clustering by Convolution and Random Walk based Imputation{{</b></font>}}\n
+Jingtian Zhou, *Jianzhu Ma*, Yusi Chen, Chuankai Cheng, Bokan Bao, Jian Peng, Terrence J. Sejnowski, Jesse R. Dixon, Joseph R. Ecker\n
+PNAS 2019\n
+-- {{<font color=red size=+0.5<b>}}SALK NEWS:{{</b></font>}} [https://www.salk.edu/news-release/new-computational-tool-lets-researchers-identify-cells-based-on-their-chromosome-shape/ NEW COMPUTATIONAL TOOL LETS RESEARCHERS IDENTIFY CELLS BASED ON THEIR CHROMOSOME SHAPE]\n
+-- {{<font color=red size=+0.5<b>}}GenomeWeb:{{</b></font>}} [https://www.genomeweb.com/scan/pnas-studies-look-lung-cancer-lncrna-hi-c-clustering-and-more PNAS Studies Look at Lung Cancer LncRNA, Hi-C Clustering, and More]
+- {{<font color=DarkBlue size=+0.5><b>}}DDOT: A Swiss-Army Knife for Investigating Data-Driven Biological Ontologies{{</b></font>}}\n
+Michael Ku Yu, *Jianzhu Ma*, Keiichiro Ono, Fan Zheng, Samson H. Fong, Aaron Gary, Jing Chen, Barry Demchak, Dexter Pratt, Trey Ideker\n
+Cell Systems 2019\n
+- {{<font color=DarkBlue size=+0.5><b>}}Mitigating Data Scarcity in Protein Binding Prediction Using Meta-Learning{{</b></font>}}\n
+Yunan Luo, *Jianzhu Ma*, Xiaoming Zhao, Yufeng Su, Yang Liu, Trey Ideker, Jian Peng\n
+RECOMB 2019\n
+- {{<font color=DarkBlue size=+0.5><b>}}Visible Machine Learning for Biomedicine{{</b></font>}}\n
+Michael Ku Yu, *Jianzhu Ma*, Jasmin Fisher, Jason F. Kreisberg, Benjamin J. Raphael, Trey Ideker\n
+Cell 2018\n
+
+- {{<font color=DarkBlue size=+0.5><b>}}Typing tumors using pathways selected by somatic evolution{{</b></font>}}\n
+Sheng Wang, *Jianzhu Ma*, Wei Zhang, John Shen, Justin Huang, Jian Peng, Trey Ideker\n
+Nature Communications 2018\n
+
+- {{<font color=DarkBlue size=+0.5><b>}}Classifying tumors by supervised network propagation{{</b></font>}}\n
+Wei Zhang, *Jianzhu Ma*, Trey Ideker\n
+ISMB 2018 and bioinformatics\n
+- {{<font color=DarkBlue size=+0.5><b>}}Using deep learning to model the hierarchical structure and function of a cell{{</b></font>}}\n
+*Jianzhu Ma*, Michael Ku Yu, Samson Fong, Keiichiro Ono, Eric Sage, Barry Demchak, Roded Sharan, Trey Ideker\n
+Nature Methods 2018\n
+-- {{<font color=red size=+0.5<b>}}Cover Art:{{</b></font>}} [https://www.nature.com/nmeth/journal/v15/n4/covers/index.html Nature Methods About the Cover: April 2018 Vol 15 No 4]\n
+-- {{<font color=red size=+0.5<b>}}IEEE SPECTRUM:{{</b></font>}} [https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/cracking-open-the-black-box-of-ai-with-cell-biology Cracking Open the Black Box of AI with Cell Biology]\n
+-- {{<font color=red size=+0.5<b>}}UCSD Health:{{</b></font>}} [https://health.ucsd.edu/news/releases/Pages/2018-03-05-how-a-yeast-cell-helps-crack-open-the-black-box-behind-artificial-intelligence.aspx How a Yeast Cell Helps Crack Open the "Black Box" Behind Artificial Intelligence]\n
+-- {{<font color=red size=+0.5<b>}}GenomeWeb:{{</b></font>}} [https://www.genomeweb.com/informatics/deep-learning-based-cell-model-may-predict-patient-tumor-cell-growth-someday\#.WtUmt4gbOUk Deep Learning-Based Cell Model May Predict Patient Tumor Cell Growth Someday]\n
+-- {{<font color=red size=+0.5<b>}}Nature:{{</b></font>}} [https://www.nature.com/articles/d41586-020-01128-8 Deep learning takes on tumours]\n
+- {{<font color=DarkBlue size=+0.5><b>}}Deciphering signaling specificity with deep neural networks{{</b></font>}}\n
+Yunan Luo, *Jianzhu Ma*, Yang Liu, Qing Ye, Trey Ideker, Jian Peng\n
+RECOMB 2018\n
+- {{<font color=DarkBlue size=+0.5><b>}}Annotating gene sets by mining large literature collections with protein networks{{</b></font>}}\n
+Sheng Wang, *Jianzhu Ma*, Michael Ku Yu, Fan Zheng, Edward W Huang, Jiawei Han, Jian Peng, Trey Ideker\n
+Pacific Symposium on Biocomputing, 2018\n
+- {{<font color=DarkBlue size=+0.5><b>}}DeepBound: Accurate Identification of Transcript Boundaries via Deep Convolutional Neural Fields{{</b></font>}}\n
+Mingfu Shao, *Jianzhu Ma*, Sheng Wang\n
+ISMB 2017 and Bioinformatics\n
+- {{<font color=DarkBlue size=+0.5><b>}}AcconPred: Predicting Solvent Accessibility and Contact Number Simultaneously by a Multi-Task Learning Framework under the Conditional Random Fields Model{{</b></font>}}\n
+*Jianzhu Ma* and Sheng Wang\n
+BioMed Research International 2015\n 
+- {{<font color=DarkBlue size=+0.5><b>}}Structure Learning Constrained by Node-Specific Degree Distribution{{</b></font>}}\n
+*Jianzhu Ma*, Sheng Wang and Jinbo Xu\n
+UAI 2015\n
+- {{<font color=DarkBlue size=+0.5><b>}}Protein Contact Prediction by Integrating Joint Evolutionary Coupling Analysis and Supervised Learning{{</b></font>}}\n
+*Jianzhu Ma*, Sheng Wang, Zhiyong Wang and Jinbo Xu\n
+RECOMB and PLOS Computational Biology 2015\n
+- {{<font color=DarkBlue size=+0.5><b>}}MRFalign: Protein Homology Detection through Alignment of Markov Random Fields{{</b></font>}}\n
+*Jianzhu Ma*, Sheng Wang, Jinbo Xu\n
+RECOMB and PLOS Computational Biology 2014\n 
+This work also won the following awards:
+-- {{<font color=red size=+0.5<b>}}Best Paper Award{{</b></font>}} of RECOMB 2014\n
+-- {{<font color=red size=+0.5<b>}}Best Poster Award{{</b></font>}} of 2nd Zing Conference on Protein and RNA Structure Prediction\n
+-- {{<font color=red size=+0.5<b>}}Warren DeLano Award{{</b></font>}} of 3DSIG 2014\n
+- {{<font color=DarkBlue size=+0.5><b>}}Algorithms, Applications and Challenges of Protein Structure Alignment{{</b></font>}}\n
+*Jianzhu Ma* and Sheng Wang\n
+Journal of Advances in Protein Chemistry and Structural Biology 2014\n
+- {{<font color=DarkBlue size=+0.5><b>}}Protein Threading Using Context-Specific Alignment Potential{{</b></font>}}\n
+*Jianzhu Ma*, Sheng Wang and Jinbo Xu\n
+ISMB and Bioinformatics 2013\n
+- {{<font color=DarkBlue size=+0.5><b>}}Estimating the Partition Function of Graphical Models Using Langevin Importance Sampling{{</b></font>}}\n
+*Jianzhu Ma*, Jian Peng, Sheng Wang and Jinbo Xu\n
+AI & Statistics 2013\n
+- {{<font color=DarkBlue size=+0.5><b>}}A Conditional Neural Fields Model for Protein Threading{{</b></font>}}\n
+*Jianzhu Ma*, Jian Peng, Sheng Wang and Jinbo Xu\n
+ISMB and Bioinformatics 2012\n
+- {{<font color=DarkBlue size=+0.5><b>}}Design and Implementation of a Cooperate Framework for Autonomous Component based on Rule Injection{{</b></font>}}\n
+*Jianzhu Ma*, Jiyu Huang and Wenpin Jiao\n
+NASAC 2009\n
+
+== Co-author paper
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}} PALM: Probabilistic Area Loss Minimization for Protein Sequence Alignment {{</b></font>}}\n
+Fan Ding, Nan Jiang, *Jianzhu Ma*, Jian Peng, Jinbo Xu, Yexiang Xue\n
+UAI 2021
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}} XOR-CD: Linearly Convergent Constrained Structure Generation {{</b></font>}}\n
+Fan Ding, *Jianzhu Ma*, Jinbo Xu, Yexiang Xue\n
+ICML 2021 {{<font color=red <b>}}/oral presentation/ {{</b></font>}}
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} {{<font color=DarkBlue size=+0.5><b>}} SARS-CoV-2 exacerbates proinflammatory responses in myeloid cells through ACE2-independent interactions via C-type lectin receptors and TTYH2 {{</b></font>}}\n
+Qiao Lu, Jia Liu, Shuai Zhao, Maria Florencia Gomez Castro, Maudry Laurent-Rolle, Jianbo Dong, Xiaojuan Ran, Payal Damani-Yokota, Hongzheng Tang, Triantafyllia Karakousi, Juhee Son, Maria E. Kaczmarek, Ze Zhang, Stephen T. Yeung, Broc T. McCune, Rita E. Chen, Fei Tang, Xianwen Ren, Xufeng Chen, Jack C.C. Hsu, Marianna Teplova, Betty Huang, Haijing Deng, Zhilin Long, Tenny Mudianto, Shumin Jin, Peng Lin, Jasper Du, Ruochen Zang, Tina Tianjiao Su, Alberto Herrera, Ming Zhou, Renhong Yan, Jia Cui, James Zhu, Qiang Zhou, Tao Wang, *Jianzhu Ma*, Sergei B. Koralov, Zemin Zhang, Iannis Aifantis, Leopoldo N. Segal, Michael S. Diamond, Kamal M. Khanna, Kenneth A. Stapleford, Peter Cresswel, Yue Liu, Siyuan Ding, Qi Xie, Jun Wang\n
+Immunity 2021 (Impact Factor=22)\n
+
+- {{<font color=DarkBlue size=+0.5><b>}}A conserved epigenetic progression aligns dog and human age{{</b></font>}}\n
+Tina Wang, *Jianzhu Ma*, Andrew N. Hogan, Samson Fong, Katherine Licon, Brian Tsui, Jason F. Kreisberg, Peter D. Adams, Anne-Ruxandra Carvunis, Danika L. Bannasch, Elaine A. Ostrander and Trey Ideker\n
+Cell Systems 2020\n
+
+- {{<font color=DarkBlue size=+0.5><b>}}Artificial-Cell-Type Aware Cell Type Classification in CITE-seq{{</b></font>}}\n
+Qiuyu Lian, Hongyi Xin, *Jianzhu Ma*, Liza Konnikova, Wei Chen, Jin Gu and Kong Chen\n
+ISMB 2020 and Bioinformatics\n
+
+- {{<font color=DarkBlue size=+0.5><b>}}AUCpreD: proteome-level protein disorder prediction by AUC-maximized Deep Convolutional Neural Fields{{</b></font>}}\n
+Sheng Wang, *Jianzhu Ma*, Jinbo Xu\n
+ECCB 2016 and Bioinformatics\n
+- {{<font color=DarkBlue size=+0.5><b>}}ModuleAlign: Module-based global alignment of protein-protein interaction networks{{</b></font>}}\n
+Somaye Hashemifar, *Jianzhu Ma*, Hammad Naveed, Stefan Canzar, Jinbo Xu\n
+ECCB 2016 and Bioinformatics\n
+- {{<font color=DarkBlue size=+0.5><b>}}Protein secondary structure prediction using deep convolutional neural fields{{</b></font>}}\n
+Sheng Wang, Jian Peng, *Jianzhu Ma*, Jinbo Xu\n
+Scientific Reports 2016\n
+- {{<font color=DarkBlue size=+0.5><b>}}Bermuda: de novo assembly of transcripts with new insights for handling uneven coverage{{</b></font>}}\n
+Qingming Tang, Sheng Wang, Jian Peng, *Jianzhu Ma*, Jinbo Xu\n
+ACM BCB 2016\n
+- {{<font color=DarkBlue size=+0.5><b>}}Predicting diverse M-best protein contact maps{{</b></font>}}\n
+Siqi Sun,*Jianzhu Ma*, Jinbo Xu\n
+BIBM 2015\n
+- {{<font color=DarkBlue size=+0.5><b>}}DeepCNF-D: Predicting Protein Order/Disorder Regions by Weighted Deep Convolutional Neural Fields{{</b></font>}}\n
+Sheng Wang, *Jianzhu Ma*, Jinbo Xu\n
+International Journal of Molecular Sciences 2015\n
+- {{<font color=DarkBlue size=+0.5><b>}}An Integrative Computational Approach for Prioritization of Genomic Variants{{</b></font>}}\n
+Inna Dubchak, Sandhya Balasubramanian, Sheng Wang, Cem Meyden, Dinanath Sulakhe, Alexander Poliakov, Daniela Börnigen, Bingqing Xie, Andrew Taylor, *Jianzhu Ma*, Alex R Paciorkowski, Ghayda M Mirzaa, Paul Dave, Gady Agam, Jinbo Xu, Lihadh Al-Gazali, Christopher E Mason, M Elizabeth Ross, Natalia Maltsev and T Conrad Gilliam\n
+PLOS ONE 2015\n
+- {{<font color=DarkBlue size=+0.5><b>}}Fast and Automatic Pairwise Structure Alignment Algorithm close to Manually-Curated Precision{{</b></font>}}\n
+Scientific Reports and 3DSIG 2012. {{<font color=red size=+0.5><b>}}Warren DeLano Award{{</b></font>}}\n
+- {{<font color=DarkBlue size=+0.5><b>}}A Self-Adaptive Mechanism for Software Configuration Based on Case-based Reasoning and Policy{{</b></font>}}\n
+Maoguang Wang, Hong Mei, Wenpin Jiao, Junjing Jie and *Jianzhu Ma*\n
+AICI 2010\n
+- {{<font color=DarkBlue size=+0.5><b>}}An Empirical Study on the Impacts of Autonomy of Components on Qualities of Software Systems{{</b></font>}}\n
+Shiting Xun, *Jianzhu Ma*, Wenpin Jiao and Fanjing Meng\n
+EASe 2011\n
+- {{<font color=DarkBlue size=+0.5><b>}}A Two-way Selections based Approach to Automated Integration of Multi-Agent Systems{{</b></font>}}\n
+Xi Fang, *Jianzhu Ma*, Maoguang Wang and Wenpin Jiao\n
+3rd National Conference on Agent Theory and Application 2010\n
+- {{<font color=DarkBlue size=+0.5><b>}}A Browser-based Framework for Data Cache in Web-Delivered Service Composition{{</b></font>}}\n
+Jiyu Huang, Xuanzhe Liu, Qi Zhao, *Jianzhu Ma* and Gang Huang\n
+SOCA 2010 {{<font color=red size=+0.5><b>}}(Best paper running up){{</b></font>}}
+
+== Book Chapter
+- {{<font color=DarkBlue size=+0.5><b>}}Protein Homology Detection Through Alignment of Markov Random Fields: Using MRFalign{{</b></font>}}\n
+Jinbo Xu, Sheng Wang and *Jianzhu Ma*\n
+Springer Book 2015\n
+- {{<font color=DarkBlue size=+0.5><b>}}RaptorX Server: A Resource for Template-based Protein Structure Modeling{{</b></font>}}\n
+Morten Källberg, Gohar Margaryan, Sheng Wang, *Jianzhu Ma* and Jinbo Xu\n
+Methods in Molecular Biology 2013
+- {{<font color=DarkBlue size=+0.5><b>}}Protein Structure Prediction by Protein Alignments{{</b></font>}}\n
+*Jianzhu Ma*\n
+Dissertation 2015\n

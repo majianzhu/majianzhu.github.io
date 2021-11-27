@@ -1,0 +1,101 @@
+# jemdoc: addcss{person.css}, showsource
+# jemdoc: menu{MENU.txt}{index.html}, showsource, analytics{UA-31107207-1}
+# jemdoc: addpackage{color}
+= Ma Laboratory
+
+~~
+{}{img_left}{JianzhuMa.jpg}{Jianzhu Ma}{200}{270} # Original: [496 292]
+I resigned from Purdue and will leave US. Sorry for the inconvenience for not being able to contact me.\n
+
+I was a tenure track Walther Assistant Professor of\n
+[https://www.cs.purdue.edu/ Department of Computer Science] and [https://ag.purdue.edu/biochem/Pages/default.aspx Department of Biochemistry]\n
+at [https://www.purdue.edu/ Purdue University]\n
+
+Office: Lawson Computer Science Building, Room 3154H\n
+305 N University St, West Lafayette, IN 47907\n
+Phone: 765-494-7823\n
+Email: [majianzhu@purdue.edu majianzhu <at> purdue <dot> edu]\n\n
+[http://faculty.pku.edu.cn/yuechao/ My wife's homepage.]
+~~
+\n
+\n
+{{<font color=blue size=+0.5<b>}}Notice: For students in Peking University, please contact me if you are interested in workinig with me.\n
+ I am looking for talanted Master students, Ph.D. students to work with in the following directions, {{</b></font>}}
+- Graphical Neural Network, Generative Adversarial Networks, Deep Learning
+- Natural Language Processing
+- Bioinformatics and Computational Biology
+
+/For undergraduate and master studuents, please don't do the following: First contact me to do research and then tell me you need to focus on your homework and final./
+
+== Research
+I am a tenure-track Walther Assistant Professor in the Department of Computer Science and Biochemistry at Purdue University. Our main focus is to develop novel computational models \n
+for translation of patient data to precision diagnosis and treatment for complex diseases, such as cancer. We seek to advance this goal from three aspects: 1) {{</b></font>}}{{<font color=DarkBlue size=+0.5><b>}} Interpretable & Transferable \n
+Machine Learning Models{{</b></font>}} 2) {{</b></font>}}{{<font color=DarkBlue size=+0.5><b>}}Systems Biology and Network Models{{</b></font>}} 3) {{</b></font>}}{{<font color=DarkBlue size=+0.5><b>}}BioNLP & Text Mining{{</b></font>}}. Please see figure below for how we can connect these dots.
+
+~~
+{}{img_left}{lab_overview.png}{research overview}{750}{500}
+~~
+
+== Research Highlights
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} Our new [https://www.mdpi.com/1424-8220/21/1/104/htm paper] is accepted by the journal [https://www.mdpi.com/journal/sensors sensor], now you can do smartphone authentication by signing in the air:
+~~~
+{}{img_left}{AirSign_demo.gif}{AirSign}{300}{200}
+~~~
+
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} Our [https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30488-8.pdf Cancer Cell paper] is discussed in the following media:
+-- {{<font color=red size=+0.5<b>}}ScienceDaily:{{</b></font>}} [https://www.sciencedaily.com/releases/2020/10/201026164900.htm DrugCell: New experimental AI platform matches tumor to best drug combo]\n
+-- {{<font color=red size=+0.5<b>}}Health IT Analytics:{{</b></font>}} [https://healthitanalytics.com/news/deep-learning-model-could-enhance-cancer-precision-medicine Deep Learning Model Could Enhance Cancer Precision Medicine]\n
+-- {{<font color=red size=+0.5<b>}}Med India:{{</b></font>}} [https://www.medindia.net/news/new-ai-platform-matches-tumor-to-best-drug-combination-198154-1.htm New AI Platform Matches Tumor to Right Drug Combination]
+-- {{<font color=red size=+0.5<b>}}AZO Life Sciences:{{</b></font>}} [https://www.azolifesciences.com/news/20201026/Experimental-AI-platform-predicts-best-approach-to-cancer-treatment.aspx Experimental AI platform predicts best approach to cancer treatment]
+-- {{<font color=red size=+0.5<b>}}UC San Diego Health Newsroom:{{</b></font>}} [https://health.ucsd.edu/news/releases/Pages/2020-10-22-drugcell-new-experimental-ai-platform-matches-tumor-to-best-drug-combo.aspx DrugCell: New Experimental AI Platform Matches Tumor to Best Drug Combo]
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} Our [https://www.nature.com/articles/nmeth.4627 Nature Methods paper] is discussed in the {{<font color=red size=+0.5<b>}}TECHNOLOGY FEATURE of Nature{{</b></font>}}: [https://www.nature.com/articles/d41586-020-01128-8 Deep learning takes on tumours]
+- {{<font color=red size=+0.5<b>}}/NEW!/ {{</b></font>}} Invited talk at the Bristol-Myers Squibb Informatics and Predictive Sciences, 2020
+- Our new [https://www.biorxiv.org/content/10.1101/829192v1?ct= dog paper] is reported by the following media:
+-- {{<font color=red size=+0.5<b>}}NPR{{</b></font>}} [https://www.npr.org/2019/12/07/785804873/a-new-way-to-calculate-your-dogs-age A New Way To Calculate Your Dog's Age]
+-- {{<font color=red size=+0.5<b>}}ABC{{</b></font>}} [https://abcnews.go.com/Health/calculate-dogs-ages-unlock-secret-aging/story?id=71567949 New way to calculate dogs' ages may unlock secret to aging]
+-- {{<font color=red size=+0.5<b>}}NBC{{</b></font>}} [https://www.nbclosangeles.com/news/local/clear-the-shelters/forget-dog-years-scientists-say-weve-been-calculating-our-pups-ages-wrong/2392195/ Forget ‘Dog Years': Scientists Say We've Been Calculating Our Pups' Ages Wrong]
+-- {{<font color=red size=+0.5<b>}}Scientific American{{</b></font>}} [https://geneticliteracyproject.org/2020/01/09/podcast-how-old-is-your-dog-in-human-years-genetic-study-offers-a-new-way-to-answer-that-question/ Podcast: How old is your dog in human years? Genetic study offers a new way to answer that question.]
+-- {{<font color=red size=+0.5<b>}}BBC future{{</b></font>}} [https://www.bbc.com/future/article/20200106-how-to-calculate-your-dogs-real-age How to calculate your dog's real age]
+-- {{<font color=red size=+0.5<b>}}Nature Briefing{{</b></font>}} [https://www.nature.com/articles/d41586-019-03656-4?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&error=cookies_not_supported&code=0ab1ea60-594d-41f3-a908-ba9f21bbfcaf&fbclid=IwAR2M-RHRq9CQO0YYXioWuccQEGKw8v3d80-e5xc3ZYSrv-feakDgurtmexA Daily briefing: A better formula for ‘dog years’.]
+-- {{<font color=red size=+0.5<b>}}Science News{{</b></font>}} [https://www.sciencemag.org/news/2019/11/here-s-better-way-convert-dog-years-human-years-scientists-say Here’s a better way to convert dog years to human years, scientists say.]
+-- {{<font color=red size=+0.5<b>}}Wall Street Journal{{</b></font>}} [https://www.wsj.com/articles/our-problem-with-percentages-11573743724?mod=searchresults Our Problem With Percentages.]
+-- {{<font color=red size=+0.5<b>}}Washington Post{{</b></font>}} [https://www.washingtonpost.com/business/2019/11/28/scientists-have-come-up-with-better-way-convert-your-dogs-age-human-years/ Scientists have come up with a better way to convert your dog’s age to human years.]
+-- {{<font color=red size=+0.5<b>}}New Scientist{{</b></font>}} [https://www.newscientist.com/article/2224268-convert-your-dogs-age-into-human-years-using-this-new-formula/ Convert your dog’s age into human years using this new formula.]
+-- {{<font color=red size=+0.5<b>}}Discover{{</b></font>}} [https://www.discovermagazine.com/health/science-may-have-a-better-way-to-translate-dog-years-to-human-years Science May Have a Better Way to Translate Dog Years to Human Years.]
+-- {{<font color=red size=+0.5<b>}}New York Magazine, The Cut{{</b></font>}} [https://www.thecut.com/2019/11/how-old-is-my-dog-in-human-years.html There’s a New Way to Calculate Your Dog’s Age in Human Years.]
+-- {{<font color=red size=+0.5<b>}}New York Post{{</b></font>}} [https://nypost.com/2019/11/19/why-a-dogs-age-in-human-years-might-not-be-as-old-as-you-think/ Why a dog’s age in ‘human years’ might not be as old as you think.]
+-- {{<font color=red size=+0.5<b>}}People Magazine{{</b></font>}} [https://people.com/pets/dogs-true-age-human-years-formula/ There’s a Better Way Calculate Your Dog’s True Age in Dog Years, Researchers Say.]
+-- {{<font color=red size=+0.5<b>}}The Sun, also Fox news{{</b></font>}} [https://www.thesun.co.uk/tech/10367726/dogs-real-age-in-human-years/ Your dog’s REAL age in ‘dog years’ revealed (and it’s not their age multiplied by seven).]
+-- {{<font color=red size=+0.5<b>}}The Scientist Magazine{{</b></font>}} [https://www.the-scientist.com/news-opinion/ribosomal-dna-can-predict-an-animals-age-65471 Ribosomal DNA Can Predict an Animal’s Age.]
+-- {{<font color=red size=+0.5<b>}}Science Alert{{</b></font>}} [https://www.sciencealert.com/what-s-the-real-human-equivalent-of-your-dog-s-age-here-s-a-new-formula-to-figure-it-out What’s The Real Human Equivalent of Your Dog’s Age? Here’s a New Formula.]
+-- {{<font color=red size=+0.5<b>}}Smart News{{</b></font>}} [https://www.smithsonianmag.com/smart-news/theres-new-better-formula-calculating-dog-years-180973575/ Calculate Your Dog’s Age With This New, Improved Formula.]
+-- {{<font color=red size=+0.5<b>}}Gigazine{{</b></font>}} [https://gigazine.net/gsc_news/en/20191122-dog-age-equation/ A new formula for converting the age of dogs to humans has appeared, how old are 1-year-old dogs?]
+-- {{<font color=red size=+0.5<b>}}Considerable{{</b></font>}} [https://www.considerable.com/home/pets/dog-year-new-formula/ There’s a new way to calculate your dog’s age in human years.]
+-- {{<font color=red size=+0.5<b>}}Techballad{{</b></font>}} [https://techballad.com/new-dog-to-human-years-calculation-more-accurately-determines-when-your-beloved-pet-will-die/ New “dog to human years” calculation more accurately determines when your beloved pet will die.]
+-- {{<font color=red size=+0.5<b>}}Daily Mail{{</b></font>}} [https://www.dailymail.co.uk/sciencetech/article-7698551/Researchers-create-new-accurate-way-discover-true-age-dog-human-years.html How old is your dog REALLY in 'human years'? Researchers come up with a new formula for calculating the 'true age' of your canine friend (and it's not multiplying it by seven).]
+-- {{<font color=red size=+0.5<b>}}Green Report{{</b></font>}} [http://www.greenreport.it/news/scienze-e-ricerca/una-nuova-formula-matematica-per-calcolare-leta-umana-dei-cani/ Una nuova formula matematica per calcolare l’età “umana” dei cani.]
+-- {{<font color=red size=+0.5<b>}}eestinen{{</b></font>}} [https://eestinen.fi/2019/11/kui-vana-on-koer-tegelikult-inimese-aastates-ja-see-ei-ole-nii-lihtne-nagu-7-ga-korrutamine/ Kui vana on koer tegelikult inimese aastates – ja see ei ole nii lihtne nagu 7-ga korrutamine!]
+-- {{<font color=red size=+0.5<b>}}hani{{</b></font>}} [http://www.hani.co.kr/arti/animalpeople/companion_animal/917748.html 사람 나이론 42살’ 2살 강아지, ‘폭풍 성장’ 비밀 밝혀져.]
+-- {{<font color=red size=+0.5<b>}}Nedd{{</b></font>}} [https://nedd.tiscali.cz/lidsky-rok-sedm-psich-let-rovnice-ktera-neplati-336457 Lidský rok = sedm psích let. Rovnice, která neplatí.]
+-- {{<font color=red size=+0.5<b>}}gurumed{{</b></font>}} [https://www.gurumed.org/2019/11/19/la-vritable-formule-pour-calculer-lquivalent-en-ge-humain-de-votre-chien/ La véritable formule pour calculer l’équivalent en âge humain de votre chien.]
+-- {{<font color=red size=+0.5<b>}}IT 뉴스{{</b></font>}} [http://itnews.or.kr/?p=31782 개 나이 인간 나이 환산 새로운 공식 나왔다.]
+-- {{<font color=red size=+0.5<b>}}skuola{{</b></font>}} [https://www.skuola.net/news/fun/quanti-anni-ha-il-tuo-cane.html Quanti anni ha il tuo cane? La nuova formula per capirlo.]
+-- {{<font color=red size=+0.5<b>}}BioWorld{{</b></font>}} [https://wemp.app/posts/f81142b5-0be1-4b06-a5eb-845c32820506 狗活一年相当于人活30年？研究人员发明了计算公式，并开发了一个换算计算器。]
+-- {{<font color=red size=+0.5<b>}}wonderfulnews{{</b></font>}} [http://wonderfulnews.xyz/archives/20866647.html 犬の年齢で衝撃データ!? 人間に換算する新しい公式が登場「16×loge(犬の年齢)＋31＝人間に換算した年齢」]
+\n
+- Invited talk at the [https://www.broadinstitute.org/nextgenbiomedicine Next Generation in Biomedicine] by The Broad Institute of Harvard and MIT, 2019
+- Invited talk at the Big Mechanism at DARPA, 2018
+- Invited talk at the 13th Annual Meeting of the International Conference on Genomics (ICG), 2018
+- Invited talk at Department of cancer informatics, Sun Yat-Sen University, 2018
+- Oral presentation at Pacific Symposium on Biocomputing (PSB), 2018
+- Oral presentation at Research in Computational Molecular Biology (RECOMB), 2015
+- Oral presentation at ISMB 3DSIG and sequencing workshop, 2015
+- Invited talk at MCBIOS, 2014
+- Invited talk at the Bioinformatics Institute of Peking University, 2014
+- Oral presentation at Research in Computational Molecular Biology (RECOMB), 2014
+- Oral presentation at Artificial Intelligence and Statistics (AI & statistics), 2013
+- Invited talk at 2nd Zing Conference on Protein and RNA, 2013
+- Oral presentation at Intelligent Systems for Molecular Biology (ISMB), 2012
+- Our server *RaptorX* attends a Protein Strcuture Prediction Marathon: CAMEO
+- [http://www.cameo3d.org/sp/1-week/ Check our performance of structure prediction]
+- [http://www.cameo3d.org/lb/3-months/ Check our performance of ligand-binding prediction]
